@@ -1,0 +1,3 @@
+Clustering - with - infinispan
+
+In this i try to make a cluster through infinispan which can communicate by replicating a cache.
